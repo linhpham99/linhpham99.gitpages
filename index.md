@@ -4,22 +4,19 @@ You can use the [editor on GitHub](https://github.com/linhpham99/linhpham99.gitp
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Virginia Tech | Hokie Nation
+```Virginia Polytechnic Institute and State University, commonly known as Virginia Tech and by the initials VT and VPI, is a public, land-grant, research university with its main campus in Blacksburg, Virginia.
+Address: Blacksburg, VA 24061
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Undergraduate Programs
+## Graduate School 
+### Research Institution 
 
-```markdown
-Syntax highlighted code block
+- College of Engineering
+- College of Bussiness
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Computer Sciecnce 
+2. Computer Engineer
 
 **Bold** and _Italic_ and `Code` text
 
