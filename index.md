@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Virginia Tech | Hokie Nation
 
-You can use the [editor on GitHub](https://github.com/linhpham99/linhpham99.gitpages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Virginia Polytechnic Institute and State University, commonly known as Virginia Tech and by the initials VT and VPI, is a public, land-grant, research university with its main campus in Blacksburg, Virginia.
+Address: Blacksburg, VA 24061
 
 ### Virginia Tech | Hokie Nation
 ```Virginia Polytechnic Institute and State University, commonly known as Virginia Tech and by the initials VT and VPI, is a public, land-grant, research university with its main campus in Blacksburg, Virginia.
